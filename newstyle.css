@@ -1,0 +1,42 @@
+div {
+	text-align: center;
+	background: #e5e0e0;
+}
+
+.section {
+	float: left;
+	width: calc(50% - 10px);
+	margin-bottom: 10px;
+}
+	.sub {
+		float: left;
+		width: 100%;
+		margin: 10px 10px 10px;
+		background-color: aquamarine;
+		color: #0026ff;
+		font-size: medium;
+	}
+.temp {
+	background-color: #bababa;
+	margin: 10px 10px 10px 10px;
+	width: inherit;
+	height: 40px;
+	color: #808080;
+	font-size: medium;
+}
+
+#block2 {
+	height: 40px;
+}
+
+#block6 {
+	height: 60px;
+}
+
+#block3 {
+	height: 40px;
+}
+
+#footer {
+	clear: both;
+}
